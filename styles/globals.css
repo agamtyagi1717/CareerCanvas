@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body {
+  background: radial-gradient(
+    ellipse at center,
+    rgba(206, 205, 205, 0.8),
+    rgba(255, 255, 255, 0.9)
+  );
+  height: 100vh;
+} */
